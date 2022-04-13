@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "25749501473",
+    "project_id": "docker-aid",
+    "storage_bucket": "docker-aid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25749501473:android:2eaeea6575aedb92a29560",
+        "android_client_info": {
+          "package_name": "com.example.dockeraid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25749501473-o6qssv6g7rin8dnjlc2k77kup8dodjr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dockeraid",
+            "certificate_hash": "e95be9e4123bb1a8a0215769b3766a20a6fbbf45"
+          }
+        },
+        {
+          "client_id": "25749501473-rvvl4fsre4uq38odbrfjkkndekhoao9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbXzNHlCmjylGZZkBYQCXsnDGT9uMVtu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25749501473-rvvl4fsre4uq38odbrfjkkndekhoao9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

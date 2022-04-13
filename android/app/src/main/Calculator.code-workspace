@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../dockeraid"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}

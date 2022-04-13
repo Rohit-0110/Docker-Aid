@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "47e0070de3cfa3df04f565dca9ba1560688942ff4f7742dae7a79646e51e5140"
+build_start_time: [1649314405, 413511991]
+build_end_time: [1649314405, 915191173]
+inputs:
+  "/Users/vaidik/Linux World/Flutter/DockerAid/ios/Runner/AppDelegate.swift": !private [1622156342, 0]
